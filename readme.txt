@@ -11,7 +11,7 @@ This plugin will create metabox in Pages/Posts/Widgets to add CSS which will hel
 
 This plugin can help a lot in theme customization, it will add CSS code into head section of your website but will only work for the pages/posts/widget which you will choose.
 
-
+1. For complete demo visit http://websensepro.com/custom-css-for-pages-posts-widgets
 
 == Installation ==
 
@@ -25,11 +25,6 @@ You will now see a new metabox on all edit screens for posts/pages/widgets.
 == Screenshots ==
 
 1. For complete demo visit http://websensepro.com/custom-css-for-pages-posts-widgets
-
-2. For complete demo visit http://websensepro.com/custom-css-for-pages-posts-widgets
-
-3. For complete demo visit http://websensepro.com/custom-css-for-pages-posts-widgets
-
 
 
 == Frequently Asked Questions ==
