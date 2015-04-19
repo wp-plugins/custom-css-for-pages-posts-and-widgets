@@ -47,13 +47,7 @@ http://websensepro.com/custom-css-for-pages-posts-widgets
 
 
 
-
 == Changelog ==
 
 = 1.0 =
 • Initial release
-
-
-
-
-== Upgrade Notice ==
