@@ -5,7 +5,7 @@ Requires at least: 3.5
 Tested up to: 4.1.1
 Stable tag: 1.0
 
-
+This plugin will create metabox in Pages/Posts/Widgets to add CSS which will help alot in customization.
 
 == Description ==
 
@@ -21,7 +21,6 @@ This plugin can help a lot in theme customization, it will add CSS code into hea
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 You will now see a new metabox on all edit screens for posts/pages/widgets.
-
 
 
 == Screenshots ==
@@ -44,7 +43,6 @@ add_post_type_support( 'product', 'websensepro-custom-css');
 
 For more information, please visit the plugin's home page at:
 http://websensepro.com/custom-css-for-pages-posts-widgets
-
 
 
 == Changelog ==
