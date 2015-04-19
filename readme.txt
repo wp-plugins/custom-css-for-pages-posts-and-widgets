@@ -1,4 +1,4 @@
-=== Custom CSS for Pages/Posts/Widgets ===
+=== Custom CSS for Pages Posts and Widgets ===
 Contributors: Bilal Naseer
 Tags: custom css, css for pages, css for widgets, css for posts
 Requires at least: 3.5
