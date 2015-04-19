@@ -22,6 +22,8 @@ This plugin can help a lot in theme customization, it will add CSS code into hea
 
 You will now see a new metabox on all edit screens for posts/pages/widgets.
 
+== Screenshots ==
+
 1. For complete demo visit http://websensepro.com/custom-css-for-pages-posts-widgets
 
 
