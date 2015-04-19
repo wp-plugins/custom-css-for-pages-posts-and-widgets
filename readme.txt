@@ -26,6 +26,10 @@ You will now see a new metabox on all edit screens for posts/pages/widgets.
 
 1. For complete demo visit http://websensepro.com/custom-css-for-pages-posts-widgets
 
+2. For complete demo visit http://websensepro.com/custom-css-for-pages-posts-widgets
+
+3. For complete demo visit http://websensepro.com/custom-css-for-pages-posts-widgets
+
 
 
 == Frequently Asked Questions ==
