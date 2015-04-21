@@ -2,7 +2,7 @@
 Contributors: Bilal Naseer
 Tags: custom css, css for pages, css for widgets, css for posts
 Requires at least: 3.5
-Tested up to: 4.2
+Tested up to: 4.1.2
 Stable tag: 1.0
 
 This plugin will create metabox in Pages/Posts/Widgets to add CSS which will help alot in customization.
