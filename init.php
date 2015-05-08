@@ -3,7 +3,7 @@
 Plugin Name: Custom CSS for Pages, Posts and Widgets
 Plugin URI: http://websensepro.com/custom-css-for-pages-posts-widgets
 Description: Add a custom css metabox on the post/page/widget/ custom post type edit screens
-Version: 1.0
+Version: 1.1
 Author: Bilal Naseer
 Author URI: http://websensepro.com
 

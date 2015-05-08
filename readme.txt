@@ -3,7 +3,7 @@ Contributors: Bilal Naseer
 Tags: custom css, css for pages, css for widgets, css for posts
 Requires at least: 3.5
 Tested up to: 4.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 This plugin will create metabox in Pages/Posts/Widgets to add CSS which will help alot in customization.
 
@@ -33,6 +33,9 @@ add_post_type_support( 'POST_TYPE', 'websensepro-custom-css');
 
 
 == Changelog ==
+
+= 1.1 =
+• Fixed some minor bugs
 
 = 1.0 =
 • Initial release
