@@ -3,7 +3,7 @@ Contributors: bilalnaseer
 Tags: custom css, css for pages, css for widgets, css for posts
 Requires at least: 3.5
 Tested up to: 4.2
-Donation link: http://websensepro.com/plugins/donation/
+Donate link: http://websensepro.com/plugins/donation/
 Stable tag: 1.1
 
 This plugin will create metabox in Pages/Posts/Widgets to add CSS which will help alot in customization.
