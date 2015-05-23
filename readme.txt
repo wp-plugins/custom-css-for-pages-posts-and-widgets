@@ -9,7 +9,7 @@ Stable tag: 1.1
 This plugin will create metabox in Pages/Posts/Widgets to add CSS which will help alot in customization.
 
 == Description ==
-This plugin can help a lot in theme customization, it will add CSS code into head section of your website but will only work for the pages/posts/widget which you will choose.
+Wordpress plugin for adding custom CSS into POSTS, PAGES and WIDGETS, it will add CSS code into head section of your website but will only work for the pages/posts/widget which you will choose.
 
 For complete demo visit http://websensepro.com/custom-css-for-pages-posts-widgets
 
